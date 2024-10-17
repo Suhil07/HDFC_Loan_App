@@ -8,6 +8,7 @@ public class SbRestapiValidationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbRestapiValidationApplication.class, args);
+         int i=20;
 	}
 
 }
